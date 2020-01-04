@@ -1,8 +1,12 @@
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,wanfangdata
+DOMAIN-KEYWORD,sci-hub.
+DOMAIN-SUFFIX,engineeringvillage.com
 DOMAIN-SUFFIX,scienc.com
+DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,link.springer.com
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN-SUFFIX,sciencemag.org
@@ -12,8 +16,9 @@ DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,sci-hub.cc
 DOMAIN-SUFFIX,sci-hub.la
 DOMAIN-SUFFIX,sci-hub.hk
-DOMAIN-KEYWORD,sci-hub.
+DOMAIN-SUFFIX,tjupt.org
