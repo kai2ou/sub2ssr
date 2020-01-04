@@ -1,3 +1,4 @@
+# 学术ip访问
 DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,sci-hub.
@@ -21,5 +22,6 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,sci-hub.cc
 DOMAIN-SUFFIX,sci-hub.la
 DOMAIN-SUFFIX,sci-hub.hk
+# 国内访问，自用
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,lanzou.com
